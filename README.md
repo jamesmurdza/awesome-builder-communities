@@ -19,15 +19,15 @@ This is a list of awesome, inclusive, IRL builder communities from every country
 
 ## 🇨🇦 Canada
 ### Vancouver
-- [Moment](https://lu.ma/moment.um) — Makerspace
-- [Atelier Place](https://lu.ma/atelier.place) — Makerspace
+- [Moment](https://lu.ma/moment.um) — Meetup
+- [Atelier Place](https://lu.ma/atelier.place) — Meetup
 ### Montreal
-- [Douze A Deux](https://lu.ma/douzeadeuxMontreal) — Makerspace
+- [Douze A Deux](https://lu.ma/douzeadeuxMontreal) — Meetup
 
 
 ## 🇨🇲 Cameroon
 ### Douala
-- [CodingHQ](https://www.facebook.com/codinghq4/) — Makerspace
+- [CodingHQ](https://www.facebook.com/codinghq4/) — Meetup
 
 
 ## 🇨🇳 China
