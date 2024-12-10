@@ -2,6 +2,9 @@
 
 This is a list of awesome, inclusive, IRL builder communities from every country around the world.
 
+## Countries
+[🇦🇺 Australia](#-australia) • [🇧🇪 Belgium](#-belgium) • [🇧🇷 Brazil](#-brazil) • [🇨🇦 Canada](#-canada) • [🇨🇲 Cameroon](#-cameroon) • [🇨🇳 China](#-china) • [🇨🇴 Colombia](#-colombia) • [🇩🇪 Germany](#-germany) • [🇩🇰 Denmark](#-denmark) • [🇫🇮 Finland](#-finland) • [🇫🇷 France](#-france) • [🇬🇧 United Kingdom](#-united-kingdom) • [🇭🇰 Hong Kong](#-hong-kong) • [🇭🇳 Honduras](#-honduras) • [🇮🇳 India](#-india) • [🇮🇹 Italy](#-italy) • [🇯🇵 Japan](#-japan) • [🇰🇷 Korea](#-korea) • [🇲🇽 Mexico](#-mexico) • [🇳🇬 Nigeria](#-nigeria) • [🇳🇱 Netherlands](#-netherlands) • [🇵🇰 Pakistan](#-pakistan) • [🇵🇱 Poland](#-poland) • [🇵🇹 Portugal](#-portugal) • [🇹🇭 Thailand](#-thailand) • [🇹🇼 Taiwan](#-taiwan) • [🇺🇸 United States](#-united-states) • [🇻🇳 Vietnam](#-vietnam)
+
 ## 🇦🇺 Australia
 ### Sydney/Melbourne
 - [Buildclub](https://lu.ma/buildercommunityanz) — Meetup
